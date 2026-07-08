@@ -31,13 +31,13 @@ body{
     font-size: 14px;
 }
 
-span{
+.comunidad{
     color: goldenrod;
 }
 
 .palette{
     width: 140px;
-    height: 40;
+    height: 40px;
     background-color: black;
     border-radius: 10px;
     margin: 40px;
